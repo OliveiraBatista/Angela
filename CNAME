@@ -1,1 +1,5 @@
-www.angeladeoliveirabatista.com.br
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+git rm CNAME
+git commit -m "Remover CNAME"
+git push origin main
